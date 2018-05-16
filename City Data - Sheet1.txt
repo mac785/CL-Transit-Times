@@ -1,0 +1,100 @@
+Birmingham	AL
+Montgomery	AL
+Little Rock	AR
+Phoenix	AZ
+Tucson	AZ
+Anaheim	CA
+Bakersfield	CA
+Fresno	CA
+Long Beach	CA
+Los Angeles	CA
+Riverside	CA
+Sacremento	CA
+San Diego	CA
+San Francisco	CA
+San Jose	CA
+Colorado Springs	CO
+Denver	CO
+Hartford	CT
+Washington	DC
+Dover	DE
+Jacksonville	FL
+Miami	FL
+Orlando	FL
+Tallahassee	FL
+Tampa	FL
+Atlanta	GA
+Des Moines	IA
+Boise	ID
+Chicago	IL
+Springfield	IL
+Indianapolis	IN
+Topeka	KS
+Wichita	KS
+Frankfort	KY
+Lexington	KY
+Louisville	KY
+Baton Rouge	LA
+New Orleans	LA
+Boston	MA
+Annapolis	MD
+Baltimore	MD
+Augusta	ME
+Detroit	MI
+Lansing	MI
+Minneapolis	MN
+Jefferson City	MO
+Kansas City	MO
+St. Louis	MO
+Jackson	MS
+Helena	MT
+Charlotte	NC
+Greensboro	NC
+Raleigh	NC
+Bismarck	ND
+Lincoln	NE
+Omaha	NE
+Concord	NH
+Trenton	NJ
+Albuquerque	NM
+Santa Fe	NM
+Carson City	NV
+Las Vegas	NV
+Albany	NY
+Buffalo	NY
+New York	NY
+Syracuse	NY
+Cincinatti	OH
+Cleveland	OH
+Columbus	OH
+Toledo	OH
+Oklahoma City	OK
+Tulsa	OK
+Portland	OR
+Salem	OR
+Harrisburge	PA
+Philadelphia	PA
+Pittsburg	PA
+Providence	RI
+Columbia	SC
+Pierre	SD
+Memphis	TN
+Nashville	TN
+Austin	TX
+Corpus Christi	TX
+Dallas	TX
+El Paso	TX
+Ft. Worth	TX
+Houston	TX
+Lubbock	TX
+San Antonio	TX
+Salt Lake City	UT
+Richmond	VA
+Virginia Beach	VA
+Montpelier	VT
+Olympia	WA
+Seattle	WA
+Madison	WI
+Milwaukee	WI
+Charleston	WV
+Cheyenne	WY
